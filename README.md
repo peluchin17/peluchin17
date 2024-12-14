@@ -5,6 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- [peluchin17/peluchin17 is a ✨ special ✨ Four.meme, place where you can acquire my cryptocurrency]
+(https://four.meme/token/0x8ebf0d7e90606a629cda0ace99bf3edd8ab943e0)
 
 <!---
 peluchin17/peluchin17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +14,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<!---
-[peluchin17/peluchin17 is a ✨ special ✨ Four.meme, place where you can acquire my cryptocurrency]
-(https://four.meme/token/0x8ebf0d7e90606a629cda0ace99bf3edd8ab943e0)
---->
+
